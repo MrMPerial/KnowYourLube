@@ -1,0 +1,71 @@
+body {
+    margin: auto 0;
+    background-color: #ADA8A8;
+}
+
+.logo {
+    text-align: center;
+	width:100%;
+	height:60px;
+	margin-top:-20px;
+	background:linear-gradient(#ADA8A8, #E8E6E6);
+}
+
+.logoBig {
+	font-family:verdana;
+	font-size:1.5em;
+	//padding-left:60px;
+	background: -webkit-linear-gradient(#0CB5ED, #076787);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.menu {
+    background:#39B510;
+    position: fixed;
+    border-radius: 3px;
+}
+
+.padCat {
+    padding-top: 25px;
+}
+
+.catShadow {
+    text-shadow: 2px 3px 2px lightgray;
+}
+
+.contentArea {
+	border:1px solid #DFE6E8;
+    background-color: #EDF1F2;
+    padding-bottom: 100px;
+}
+
+.brandName {
+	text-align:center;
+	font-family:"Lucida Console", Monaco, monospace;
+	color:#0CB5ED;
+}
+
+.footer {
+	text-align:center;
+	width:100%;
+	height:50px;
+	background:gray;
+	padding:15px;
+}
+
+a {
+	color:#B53910;
+}
+
+th {
+	background:#509DE9 !important;
+}
+
+table {
+	border:1px solid #DFE6E8;
+}
+
+.hr2 {
+    color: black;
+}
